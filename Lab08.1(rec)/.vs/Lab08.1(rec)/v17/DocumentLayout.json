@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A01CD4-C873-412F-9D82-153EA8EB22CA}|Lab08.1(rec)\\Lab08.1(rec).vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A01CD4-C873-412F-9D82-153EA8EB22CA}|Lab08.1(rec)\\Lab08.1(rec).vcxproj|solutionrelative:Lab08.1(rec)\\Lab08.1(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8044D-A549-4D1B-B74F-F967B364F19F}|UnitTest1\\UnitTest1.vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFF8044D-A549-4D1B-B74F-F967B364F19F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T11:58:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab08.1(rec).cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec).cpp",
+              "RelativeDocumentMoniker": "Lab08.1(rec)\\Lab08.1(rec).cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec)\\Lab08.1(rec).cpp",
+              "RelativeToolTip": "Lab08.1(rec)\\Lab08.1(rec).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T11:48:48.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
